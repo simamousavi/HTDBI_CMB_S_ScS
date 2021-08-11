@@ -5,3 +5,8 @@ Two files are provided here:
 1- ScS-S data for events ocuured during 2008 - 2018 at epicentral distances 60 - 75. Please see Houser et al. (2008) for the rest of the data.
 
 2- The shear wave velocity model which is presented in Fig.9a in Mousavi et al. (2021). 
+
+Cite the data and model as:
+Mousavi, S., Tkalcic, H., Hawkins, R., Sambridge, M. (2021). Lowermost mantle shear-velocity structure from hierarchical trans-dimensional Bayesian tomography. JGR.
+
+
