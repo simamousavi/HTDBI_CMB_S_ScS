@@ -1,7 +1,7 @@
 # HTDBI_CMB_S_ScS
 
-Here I provided ScS-S data from 2008 to 2018 for the event station pairs at epicentral distances between 60 to 75. Please refere to Hauser et al. (2008) for the rest of the data.
+Two files are provided here:
 
-The second file is the shear wave velocity model file which is presented in Fig.9a in revised Mousavi et al. (2021) 
+1- ScS-S data for events ocuured during 2008 - 2018 at epicentral distances 60 - 75. Please see Hauser et al. (2008) for the rest of the data.
 
-
+2- The shear wave velocity model which is presented in Fig.9a in Mousavi et al. (2021). 
