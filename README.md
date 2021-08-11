@@ -1,4 +1,4 @@
-# HTDBI_CMB_S_ScS
+# LM-HTDBI
 
 Two files are provided here:
 
