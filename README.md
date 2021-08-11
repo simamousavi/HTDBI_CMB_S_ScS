@@ -7,6 +7,5 @@ Two files are provided here:
 2- The shear wave velocity model which is presented in Fig.9a in Mousavi et al. (2021). 
 
 Cite the data and model as:
-Mousavi, S., Tkalcic, H., Hawkins, R., Sambridge, M. (2021). Lowermost mantle shear-velocity structure from hierarchical trans-dimensional Bayesian tomography. JGR.
-
+Mousavi S., Tkalcic H. Hawkins R. Sambridge M., "Lowermost mantle shear-velocity structure from hierarchical trans-dimensional Bayesian tomography", Journal of Geophysical Research: Solid Earth, (submitted)
 
